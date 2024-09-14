@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 2.2024.09.14.1**
+**Version 3.2024.09.14.2**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -23,61 +23,61 @@ The release code is in the format:
 
 ℹ️ = This section needs improved
 # Table of Contents
-[AI Tools & Services](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#ai-tools--services)
+[AI Tools & Services](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#ai-tools--services-%E2%84%B9%EF%B8%8F)
 
-[Audio & Music](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#audio--music)
+[Audio & Music](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#audio--music)
 
-[Backup & Sync](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#backup--sync)
+[Backup & Sync](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#backup--sync)
 
-[Bitcoin & Cryptocurrency](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#bitcoin--cryptocurrency)
+[Bitcoin & Cryptocurrency](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#bitcoin--cryptocurrency)
 
-[Business & Commerce](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#business--commerce)
+[Business & Commerce](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#business--commerce)
 
-[CD/DVD Tools](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#cddvd-tools)
+[CD/DVD Tools](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#cddvd-tools)
 
-[Development](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#development)
+[Development](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#development)
 
-[Education & Reference](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#education--reference)
+[Education & Reference](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#education--reference)
 
-[File Management](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#file-management)
+[File Management](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#file-management)
 
-[File Sharing](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#file-sharing)
+[File Sharing](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#file-sharing)
 
-[Games](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#games)
+[Games](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#games)
 
-[Gaming Software](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#gaming-software-%E2%84%B9%EF%B8%8F)
+[Gaming Software](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#gaming-software-%E2%84%B9%EF%B8%8F)
 
-[Home & Family](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#home--family-%E2%84%B9%EF%B8%8F)
+[Home & Family](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#home--family-%E2%84%B9%EF%B8%8F)
 
-[Network & Admin](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#network--admin)
+[Network & Admin](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#network--admin)
 
-[News & Books](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#news--books)
+[News & Books](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#news--books)
 
-[Office & Productivity](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#office--productivity)
+[Office & Productivity](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#office--productivity)
 
-[Online Services](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#online-services)
+[Online Services](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#online-services)
 
-[OS & Utilities](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#os--utilities)
+[OS & Utilities](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#os--utilities)
 
-[Photos & Graphics](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#photos--graphics)
+[Photos & Graphics](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#photos--graphics)
 
-[Remote Work & Education](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#remote-work--education)
+[Remote Work & Education](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#remote-work--education)
 
-[Security & Privacy](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#security--privacy)
+[Security & Privacy](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#security--privacy)
 
-[Social & Communications](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#social--communications)
+[Social & Communications](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#social--communications)
 
-[Sport & Health](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#sport--health)
+[Sport & Health](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#sport--health)
 
-[System & Hardware](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#system--hardware)
+[System & Hardware](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#system--hardware)
 
-[Travel & Location](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#travel--location)
+[Travel & Location](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#travel--location)
 
-[Video & Movies](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#video--movies)
+[Video & Movies](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#video--movies)
 
-[Web Browsers](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#web-browsers)
+[Web Browsers](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#web-browsers)
 
-[Other](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#other)
+[Other](https://github.com/An-anonymous-coder/Open-Source-Everything/tree/main#other)
 # AI Tools & Services ℹ️
 ### AI Chatbots ℹ️
 - 🧐 [HuggingChat](https://huggingface.co/chat/)
