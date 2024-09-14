@@ -1,7 +1,7 @@
 # Open Source Everything: I FLOSS WITH FREEDOM
 For a while now I have been meticulously creating a list of open source software that in my personal opinion are the best. Unlike other lists that provide more options than what is deemed perfect, this list aims to only provide the best. The sections with multiple software listed simply have multiple perfect choices, and thus are both listed. This list is meant to be simple and straight to the point. Very few software here are proprietary. The only circumstances in which proprietary software is added is when it provides a boost in privacy that no open source option is available for. 
 # Versioning
-**Version 1.2024.09.14.0**
+**Version 2.2024.09.14.1**
 
 The release code is in the format:
 - **Total Releases:** The total number of releases since creation
@@ -18,6 +18,8 @@ The release code is in the format:
 🧐 = I have personally used and inspected this software
 
 ⚠️ = Software is proprietary
+
+🕒 = Software is outdated/abandoned
 
 ℹ️ = This section needs improved
 # Table of Contents
@@ -76,7 +78,7 @@ The release code is in the format:
 [Web Browsers](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#web-browsers)
 
 [Other](https://github.com/An-anonymous-coder/Open-Source-Everything/edit/main/README.md#other)
-# AI Tools & Services
+# AI Tools & Services ℹ️
 ### AI Chatbots ℹ️
 - 🧐 [HuggingChat](https://huggingface.co/chat/)
 - 🧐 [GPT4ALL](https://gpt4all.io/)
