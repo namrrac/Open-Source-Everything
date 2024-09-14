@@ -1,0 +1,4 @@
+This text file contains hashes for each release.
+
+# 1.2024.09.14.0 (Latest)
+f65749dc6d2e4e0057f83ca52988237a1367b199f499a669088c559b9278a25a
