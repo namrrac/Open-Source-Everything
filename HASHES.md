@@ -1,6 +1,9 @@
 This file contains SHA256 hashes for each release.
 
-# 2.2024.09.14.1 (Latest)
+# 3.2024.09.14.2 (Latest)
+3e656ae98b7613752ea92d8b8aa9be9d5f44f443bcc8bcbece7a5422ead0bf91
+
+# 2.2024.09.14.1
 8a53094c2f663c7de0a5cf5ddbba3a863ab1df3cdb2dcfa63147f0d4e0ebdefb
 
 # 1.2024.09.14.0
